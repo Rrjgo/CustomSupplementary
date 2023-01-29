@@ -1,3 +1,5 @@
 {
-  "item.customsupplementary.overhead_line_item": "Overhead Line"
+  "item.customsupplementary.overhead_line_block": "Overhead Line",
+
+  "itemGroup.supplementtab": "Custom Supplementary"
 }

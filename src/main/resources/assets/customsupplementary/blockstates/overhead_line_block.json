@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "customsupplementary:block/overhead_line_block" },
+    "facing=south": { "model": "customsupplementary:block/overhead_line_block" },
+    "facing=east": { "model": "customsupplementary:block/overhead_line_block" , "y": 90},
+    "facing=west": { "model": "customsupplementary:block/overhead_line_block" , "y": 90}
+  }
+}

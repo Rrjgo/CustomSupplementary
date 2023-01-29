@@ -1,3 +1,5 @@
 {
-  "item.customsupplementary.overhead_line_item": "架空线"
+  "item.customsupplementary.overhead_line_block": "架空线",
+
+  "itemGroup.supplementtab": "客制物品"
 }
